@@ -1,9 +1,8 @@
-package com.sogeti.specialpackage;
+package com.learn.specialpackage;
 
 import java.lang.System;
 import java.lang.*;
 import java.util.Random;
-import java.util.*;
 
 /**
  * This class demonstrates the concept of default package
