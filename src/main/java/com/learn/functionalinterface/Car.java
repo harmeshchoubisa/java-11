@@ -12,6 +12,10 @@ public class Car {
         this.isHybrid = isHybrid;
     }
 
+    /**
+     * Returns the string of brand
+     * @return
+     */
     public String getBrand() {
         return brand;
     }
