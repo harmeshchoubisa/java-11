@@ -1,5 +1,12 @@
 package com.learn.makingdecisions;
 
+/**
+ * Below are the allowed switch values in Java 11
+ * int and Integer byte and Byte short and Short char and Character String
+ * enum value
+ * var (if the type resolves to one of the preceding types)
+ */
+
 public class SwitchControlFlow {
 
     public static void main(String[] args) {
